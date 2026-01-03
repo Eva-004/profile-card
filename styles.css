@@ -7,11 +7,23 @@ body{
     min-height: 100vh;
     margin: 0;
 }
-.card{
+.card{  
     background-color: rgb(1, 52, 70);
     width: 350px;
     padding: 20px;
     border-radius: 30px;
     text-align: center;
     box-shadow: 20px 20px rgb(5, 48, 64);
+}
+ul{
+    list-style: none;
+    padding:0;
+    margin:0;
+}
+#photo img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+   object-fit: cover;
+   border: 5px solid rgb(109, 108, 108);
 }

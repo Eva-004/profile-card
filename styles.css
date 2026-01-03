@@ -25,5 +25,13 @@ ul{
     height: 120px;
     border-radius: 50%;
    object-fit: cover;
-   border: 5px solid rgb(109, 108, 108);
+   border: 5px solid rgb(34, 104, 104);
+}
+.name_bio .name{
+    font-size: 30px;
+    color: rgb(179, 172, 172); 
+}
+.name_bio .bio{
+    font-size: 16px;
+    color: rgb(179, 172, 172);
 }

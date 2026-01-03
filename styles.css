@@ -54,7 +54,7 @@ ul{
     gap: 10px;
 }
 .skills li{
-    background-color: rgb(27, 45, 52);
+    background-color: rgb(8, 29, 37);
     font-size: 15px;
     border-radius: 4px;
     color: rgb(203, 201, 201);
@@ -78,3 +78,21 @@ ul{
     color: white;
     font-size: 20px;
 }
+.cp-profiles{
+    background-color: rgb(6, 33, 43);
+    width: 300px;
+    padding: 20px;
+    border-radius: 30px;
+    text-align: center;
+    margin-top: 5px;
+}
+.cp-profiles a{
+    text-decoration: none;
+    color: white;
+}
+.cp-profiles ul{
+    display: flex;
+    padding: 0;
+    gap: 20px;
+}
+

@@ -35,3 +35,27 @@ ul{
     font-size: 16px;
     color: rgb(179, 172, 172);
 }
+.skills{
+    background-color: rgb(9, 63, 82);
+    width: 300px;
+    padding: 20px;
+    border-radius: 30px;
+    text-align: center;
+}
+.skills h2{
+    font-size: 14px;
+    color: rgb(179, 172, 172);
+    text-align: left;
+}
+.skills ul{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    gap: 10px;
+}
+.skills li{
+    background-color: rgb(27, 45, 52);
+    font-size: 15px;
+    border-radius: 4px;
+    color: rgb(203, 201, 201);
+}
